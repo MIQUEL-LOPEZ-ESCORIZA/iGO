@@ -1,0 +1,11 @@
+networkx==2.5.1
+osmnx==1.1.0 
+staticmap==0.5.5
+pickle==0.7.5
+haversine==2.3.0*
+sklearn==0.24.2
+easyinput==2.4
+igo==1.0.0
+datetime==4.7.1
+telegram.ext==1.14.0
+Standard libraries are used aswell
